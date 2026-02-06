@@ -13,7 +13,13 @@ Who is Stellar best for?
 
 Stellar is best for people who love programming and want something built for programming, it has many programming things, game dev things & is built just for programming & game development!
 
-What was Stellare made with?
+What was Stellar made with?
 
 Stellar was made with many languages, the main ones being C, Java, Go, Rust, & Assembley
 Stellar's Software was made with many languages, such as C, C++, Java, Go, Rust, Lua, & PHP
+
+Why am I making Stellar?
+
+I am developing Stellar because I thought it would be a fun project & I think it would contribute to my goal of becoming the best programmer in the world!
+I also think it could be really useful as Linux is good for programmers but it is more hacking based and can be hard to setup for programmers who arent very involved in the terminal so I want to make something similar but much better & with tons of custom software, I am also looking for a person to help me with the cybersecurity as it is one of my weaker points, I am still good I just want someone better so that it can be very safe for all users!
+I think it would be better as a VM/Virtual Machine and not used as a main Operating System, as it is NOT going to be built well for Multiplayer games, as it is very programming-focused. ^_^
