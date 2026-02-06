@@ -1,1 +1,12 @@
 Stellar is an OS/Operating System made by a solo Autistic developer, started in 2025, & heavy-progression began early 2026!
+
+Stellar is similar to Linux, with huge amounts of customizability, but similar to Microsoft, with copious amounts of built-in software for completely free!
+
+Current base software for Stellar:
+
+1. Base stuff, settings, files, photos, etc
+2. 2d Game Engine (simple, lightweight & offline (no multi-collaboration or multiplayer games!))
+3. 3d Game Engine (simple, lightweight & offline (no multi-collaboration or multiplayer games!))
+4. An inbuilt code editor with huge amounts of built-in software, Node.js & Flux (as examples)
+5. Custom Web Browser, except the browser has 2 options that can be changed at any time! It can be just a base browser, or you can customize it with code & or customization settings!
+
