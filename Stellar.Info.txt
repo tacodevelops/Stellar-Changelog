@@ -1,5 +1,4 @@
 Stellar is an OS/Operating System made by a solo Autistic developer, started in 2025, & heavy-progression began early 2026!
-
 Stellar is similar to Linux, with huge amounts of customizability, but similar to Microsoft, with copious amounts of built-in software for completely free!
 
 Current base software for Stellar:
@@ -10,3 +9,11 @@ Current base software for Stellar:
 4. An inbuilt code editor with huge amounts of built-in software, Node.js & Flux (as examples)
 5. Custom Web Browser, except the browser has 2 options that can be changed at any time! It can be just a base browser, or you can customize it with code & or customization settings!
 
+Who is Stellar best for?
+
+Stellar is best for people who love programming and want something built for programming, it has many programming things, game dev things & is built just for programming & game development!
+
+What was Stellare made with?
+
+Stellar was made with many languages, the main ones being C, Java, Go, Rust, & Assembley
+Stellar's Software was made with many languages, such as C, C++, Java, Go, Rust, Lua, & PHP
